@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" preserveAspectRatio="xMidYMid meet" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif">
+<title>两数之差 = 右边减左边</title>
+<desc>以 −5 与 −2 为例：右边的数减左边的数一定大于 0；反过来减得到负数，负号只说明方向反了。</desc>
+<rect x="0" y="0" width="720" height="260" fill="#ffffff"/>
+<line x1="40" y1="176" x2="660" y2="176" stroke="#1f2430" stroke-width="2"/>
+<path d="M660,176 L651,171.4 L651,180.6 Z" fill="#1f2430"/>
+<line x1="108" y1="170" x2="108" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="108" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">-6</text>
+<line x1="154" y1="170" x2="154" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="200" y1="170" x2="200" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="200" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">-4</text>
+<line x1="246" y1="170" x2="246" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="292" y1="170" x2="292" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="292" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">-2</text>
+<line x1="338" y1="170" x2="338" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="384" y1="170" x2="384" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="384" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">0</text>
+<line x1="430" y1="170" x2="430" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="476" y1="170" x2="476" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="476" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">2</text>
+<line x1="522" y1="170" x2="522" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="568" y1="170" x2="568" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="568" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">4</text>
+<line x1="614" y1="170" x2="614" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<line x1="660" y1="170" x2="660" y2="182" stroke="#1f2430" stroke-width="1.5"/>
+<text x="660" y="200" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">6</text>
+<circle cx="154" cy="176" r="5" fill="#2f5d8a"/>
+<circle cx="292" cy="176" r="5" fill="#c0392b"/>
+<text x="154" y="162" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13" fill="#2f5d8a" font-weight="600" text-anchor="middle">−5</text>
+<text x="292" y="162" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13" fill="#c0392b" font-weight="600" text-anchor="middle">−2</text>
+<line x1="154" y1="132" x2="292" y2="132" stroke="#2f5d8a" stroke-width="2"/>
+<text x="223" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#2f5d8a" font-weight="600" text-anchor="middle">右边 − 左边 = −2 − (−5) = 3 &gt; 0</text>
+<line x1="292" y1="228" x2="154" y2="228" stroke="#c0392b" stroke-width="2"/>
+<text x="223" y="246" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#c0392b" text-anchor="middle">左边 − 右边 = −5 − (−2) = −3，负号只说明方向反了</text>
+<text x="40" y="30" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13.5" fill="#1f2430" font-weight="600">规矩只有一条：右边减左边，结果一定大于 0</text>
+<text x="560" y="30" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">|−3| = 3，长度不变</text>
+</svg>

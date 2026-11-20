@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" preserveAspectRatio="xMidYMid meet" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif">
+<title>函数的准入—加工—输出三段示意</title>
+<desc>左边椭圆是定义域 A（准入证），中间方框是对应关系 f（加工厂），右边椭圆是值域（成品库）。三层之间用箭头连接。x=0 不属于 y=1/x 的定义域。</desc>
+<rect x="0" y="0" width="720" height="300" fill="#ffffff"/>
+<circle cx="120" cy="108" r="54" fill="#eef3fb" stroke="#2f5d8a" stroke-width="1.6"/>
+<text x="120" y="102" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="14" fill="#2f5d8a" font-weight="600" text-anchor="middle">定义域 A</text>
+<text x="120" y="123" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">哪些 x 能进</text>
+<text x="120" y="186" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600" text-anchor="middle">① 准入证</text>
+<text x="120" y="208" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">y = 1/x 时，0 进不来</text>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="64" y="236" font-size="12" fill="#2f5d8a">x ≠ 0</text></g>
+<line x1="184" y1="108" x2="258" y2="108" stroke="#8f99a8" stroke-width="1.6"/>
+<path d="M258,108 L249,103.4 L249,112.6 Z" fill="#8f99a8"/>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="200" y="98" font-size="12" fill="#5b6472">x</text></g>
+<line x1="232" y1="172" x2="258" y2="172" stroke="#8a93a3" stroke-width="1.2" stroke-dasharray="4,4"/>
+<path d="M258,172 L249,167.4 L249,176.6 Z" fill="#8a93a3"/>
+<rect x="264" y="62" width="132" height="92" fill="#f6f3fb" stroke="#6b4fa8" stroke-width="1.6" rx="10"/>
+<text x="330" y="88" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="14" fill="#6b4fa8" font-weight="600" text-anchor="middle">对应关系 f</text>
+<text x="330" y="109" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472" text-anchor="middle">加工厂</text>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="306.31" y="132" font-size="12.5" fill="#1f2430">x → f(x)</text></g>
+<text x="330" y="186" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600" text-anchor="middle">② 规矩</text>
+<text x="330" y="208" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">平时写的那个式子</text>
+<text x="330" y="226" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">只是中间这一块</text>
+<line x1="404" y1="108" x2="448" y2="108" stroke="#8f99a8" stroke-width="1.6"/>
+<path d="M448,108 L439,103.4 L439,112.6 Z" fill="#8f99a8"/>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="412" y="98" font-size="12" fill="#5b6472">f(x)</text></g>
+<circle cx="510" cy="108" r="54" fill="#eef7f2" stroke="#27795b" stroke-width="1.6"/>
+<text x="510" y="102" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="14" fill="#27795b" font-weight="600" text-anchor="middle">值域</text>
+<text x="510" y="123" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">f(x) 落在哪</text>
+<text x="510" y="186" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600" text-anchor="middle">③ 产品库</text>
+<text x="510" y="208" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472" text-anchor="middle">全部输出合起来</text>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="478" y="236" font-size="12" fill="#27795b">y = f(x)</text></g>
+<rect x="590" y="34" width="112" height="148" fill="#fff7f2" stroke="#f0cdbb" stroke-width="1" rx="10"/>
+<text x="602" y="58" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600">三样都相同</text>
+<text x="602" y="76" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600">才是同一个</text>
+<text x="602" y="94" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#b23b12" font-weight="600">函数</text>
+<text x="602" y="122" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">定义域不同</text>
+<text x="602" y="140" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">一定不是</text>
+<text x="602" y="158" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">同一个函数</text>
+<line x1="40" y1="258" x2="560" y2="258" stroke="#e3e7ee" stroke-width="1"/>
+<text x="40" y="282" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#1f2430">一句话：式子是加工厂，不是整个函数。</text>
+<text x="380" y="282" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472">问「是不是同一个」，先看准入证。</text>
+</svg>

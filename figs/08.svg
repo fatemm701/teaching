@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" preserveAspectRatio="xMidYMid meet" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif">
+<title>指数式与对数式：位置对调</title>
+<desc>把 a 的 x 次方等于 N 写成 x 等于 log 底 a 真数 N：底数 a 始终在下面不动，指数 x 与结果 N 互换位置。</desc>
+<rect x="0" y="0" width="720" height="300" fill="#ffffff"/>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="92" y="104" font-size="36" fill="#1f2430" font-weight="600">a</text><text x="117.27" y="89.6" font-size="30.96" fill="#1f2430" text-anchor="start">x</text><text x="130.3" y="104" font-size="36" fill="#1f2430" font-weight="600"> = N</text></g>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="318" y="100" font-size="28" fill="#8f99a8">⇔</text></g>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="376" y="104" font-size="36" fill="#1f2430" font-weight="600">x = log</text><text x="495.25" y="110.48" font-size="28.08" fill="#1f2430" text-anchor="start">ₐ</text><text x="506.63" y="104" font-size="36" fill="#1f2430" font-weight="600">N</text></g>
+<line x1="92" y1="70" x2="92" y2="52" stroke="#b23b12" stroke-width="1.2"/>
+<line x1="92" y1="52" x2="56" y2="52" stroke="#b23b12" stroke-width="1.2"/>
+<circle cx="92" cy="70" r="2.4" fill="#b23b12" stroke="none"/>
+<text x="52" y="44" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#b23b12">① x 的位置：从「右上角」挪到「等号左边」</text>
+<line x1="250" y1="112" x2="250" y2="148" stroke="#2f5d8a" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="250" y1="148" x2="300" y2="148" stroke="#2f5d8a" stroke-width="1.2" stroke-dasharray="4,3"/>
+<circle cx="250" cy="112" r="2.4" fill="#2f5d8a" stroke="none"/>
+<text x="306" y="152" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#2f5d8a">② N 的位置：从「等号右边」挪到「log 的后面」</text>
+<line x1="470" y1="116" x2="470" y2="148" stroke="#27795b" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="470" y1="148" x2="610" y2="148" stroke="#27795b" stroke-width="1.2" stroke-dasharray="4,3"/>
+<circle cx="470" cy="116" r="2.4" fill="#27795b" stroke="none"/>
+<text x="700" y="168" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#27795b" text-anchor="end">③ 底数 a 永远在下面，两边都不动</text>
+<rect x="150" y="176" width="420" height="70" fill="#f7f9fc" stroke="#dde3ec" stroke-width="1" rx="10"/>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="186" y="224" font-size="28" fill="#1f2430" font-weight="600">2</text><text x="205.95" y="212.8" font-size="24.08" fill="#1f2430" text-anchor="start">³</text><text x="216.08" y="224" font-size="28" fill="#1f2430" font-weight="600"> = 8</text></g>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="294" y="220" font-size="22" fill="#8f99a8">⇔</text></g>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="342" y="224" font-size="28" fill="#1f2430" font-weight="600">log</text><text x="386.41" y="229.04" font-size="21.84" fill="#1f2430" text-anchor="start">₂</text><text x="395.26" y="224" font-size="28" fill="#1f2430" font-weight="600">8 = 3</text></g>
+<text x="486" y="210" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">读作：2 的几次方是 8？</text>
+<text x="486" y="228" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="11.5" fill="#5b6472">答：3 次。</text>
+</svg>

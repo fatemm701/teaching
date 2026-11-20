@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" preserveAspectRatio="xMidYMid meet" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif">
+<title>从 −5 到 2 的距离：两段拼起来</title>
+<desc>从 −5 先走到 0 是 5 个单位，再从 0 走到 2 是 2 个单位，合起来 7 个单位，正好等于 2 − (−5)。</desc>
+<rect x="0" y="0" width="720" height="260" fill="#ffffff"/>
+<line x1="40" y1="168" x2="664" y2="168" stroke="#1f2430" stroke-width="2"/>
+<path d="M664,168 L655,163.4 L655,172.6 Z" fill="#1f2430"/>
+<line x1="292" y1="162" x2="292" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="292" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">-4</text>
+<line x1="350" y1="162" x2="350" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="350" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">-3</text>
+<line x1="408" y1="162" x2="408" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="408" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">-2</text>
+<line x1="466" y1="162" x2="466" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="466" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">-1</text>
+<line x1="524" y1="162" x2="524" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="524" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">0</text>
+<line x1="582" y1="162" x2="582" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="582" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">1</text>
+<line x1="640" y1="162" x2="640" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="640" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">2</text>
+<line x1="698" y1="162" x2="698" y2="174" stroke="#1f2430" stroke-width="1.5"/>
+<text x="698" y="192" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#5b6472" text-anchor="middle">3</text>
+<circle cx="234" cy="168" r="5.5" fill="#2f5d8a"/>
+<circle cx="640" cy="168" r="5.5" fill="#c0392b"/>
+<text x="234" y="154" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13" fill="#2f5d8a" font-weight="600" text-anchor="middle">A</text>
+<text x="640" y="154" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13" fill="#c0392b" font-weight="600" text-anchor="middle">B</text>
+<path d="M234,122 L524,122" fill="none" stroke="#2f5d8a" stroke-width="2.4"/>
+<path d="M524,122 l-9,-4 M524,122 l-9,4" fill="none" stroke="#2f5d8a" stroke-width="1.6"/>
+<text x="379" y="114" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#2f5d8a" font-weight="600" text-anchor="middle">5 个单位</text>
+<path d="M524,122 L640,122" fill="none" stroke="#c0392b" stroke-width="2.4"/>
+<path d="M640,122 l-9,-4 M640,122 l-9,4" fill="none" stroke="#c0392b" stroke-width="1.6"/>
+<text x="582" y="114" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12.5" fill="#c0392b" font-weight="600" text-anchor="middle">2 个单位</text>
+<line x1="234" y1="212" x2="640" y2="212" stroke="#1f2430" stroke-width="1.4"/>
+<line x1="234" y1="206" x2="234" y2="218" stroke="#1f2430" stroke-width="1.4"/>
+<line x1="640" y1="206" x2="640" y2="218" stroke="#1f2430" stroke-width="1.4"/>
+<g font-family="'Cambria Math',Cambria,'Times New Roman','Microsoft YaHei',serif"><text x="375.69" y="234" font-size="13" fill="#1f2430" font-weight="600">5 + 2 = 7 = 2 − (−5)</text></g>
+<text x="40" y="34" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="13.5" fill="#1f2430" font-weight="600">距离可以拆成两段接起来算</text>
+<text x="40" y="56" font-family="'Microsoft YaHei','PingFang SC','Noto Sans SC',sans-serif" font-size="12" fill="#5b6472">到了 0 不停，接到 0 的另一侧。</text>
+</svg>
