@@ -9,10 +9,15 @@ Obsidian 导出后做了少量适配，使其可以托管在任意子路径（�
 
 ## 部署
 
-推送到 `main` 后，GitHub Actions 会把本仓库根目录整个发布到 Pages。
-仓库需在 **Settings → Pages → Source** 选择 **GitHub Actions**。
+本仓库根目录**就是**网站根目录，没有构建步骤，纯静态文件。
+
+在 **Settings → Pages → Source** 选择 **Deploy from a branch**，
+分支选 `gh-pages`，目录选 `/ (root)`，保存即可。
 
 站点地址：https://fatemm701.github.io/teaching/
+
+`main` 与 `gh-pages` 两个分支内容一致；改完 `main` 后执行
+`git push origin main:gh-pages` 即可重新发布。
 
 ## 对导出结果的适配
 
